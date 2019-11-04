@@ -1,0 +1,28 @@
+{
+	"name": "paypal-integration-using-nodejs",
+	"version": "1.0.0",
+	"description": "how to start accepting payments on your website using paypal",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"paypal",
+		"payment",
+		"gateway",
+		"nodejs",
+		"payment",
+		"integration",
+		"in",
+		"web",
+		"apps"
+	],
+	"author": "@nodejsera",
+	"license": "MIT",
+	"dependencies": {
+		"@paypal/checkout-server-sdk": "^1.0.1",
+		"express": "^4.15.4",
+		"paypal-pay": "^0.1.1",
+		"paypal-rest-sdk": "^1.7.1"
+	}
+}
