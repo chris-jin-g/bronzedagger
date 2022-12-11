@@ -21,7 +21,7 @@
 	"license": "MIT",
 	"dependencies": {
 		"@paypal/checkout-server-sdk": "^1.0.1",
-		"express": "^4.15.4",
+		"express": "^4.17.3",
 		"paypal-pay": "^0.1.1",
 		"paypal-rest-sdk": "^1.7.1"
 	}
